@@ -265,6 +265,7 @@ button:hover {
 .esquina-inf-izq {
     bottom: 0;
     left: 0;
+    z-index: -1;
     transform: scaleY(-1);
 }
 
